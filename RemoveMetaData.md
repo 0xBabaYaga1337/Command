@@ -1,5 +1,5 @@
 
-
+```
 Install exiftool:
 
 sudo apt-get install libimage-exiftool-perl
@@ -106,3 +106,4 @@ Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
 Image Size                      : 1944x2592
 
 References:
+```
